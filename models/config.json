@@ -13,6 +13,13 @@
             "base_path":"/models/yolov7-w6",
             "batch_size": "auto"
           }
-       }
+       },
+       {
+         "config":{
+           "name":"efficientdet-d7",
+           "base_path":"/models/efficientdet-d7",
+           "batch_size": "auto"
+         }
+      }
     ]
  }
